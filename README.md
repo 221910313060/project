@@ -1,4 +1,4 @@
-# project
+# Calculator Project
 from tkinter import *   
 def click(event):  
     global scvalue   
